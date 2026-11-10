@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=58E6D9&center=true&vCenter=true&width=620&lines=%E8%BF%99%E4%B8%AA%E4%BA%BA%E5%BE%88%E6%87%92%E3%80%82%E4%BB%80%E4%B9%88%E9%83%BD%E5%86%99%E4%BA%86" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=58E6D9&center=true&vCenter=true&width=620&lines=%E5%8E%BB%E7%95%99%E6%97%A0%E6%84%8F%EF%BC%8C%E6%BC%AB%E9%9A%8F%E5%A4%A9%E5%A4%96%E4%BA%91%E8%88%92%E4%BA%91%E5%8D%B7" alt="typing" />
 
 </div>
 
@@ -38,12 +38,11 @@
 
 ---
 
-<div align="center">
 ### 👀 被围观次数
 
-<img src="https://count.getloli.com/get/@D4wn3R?theme=asoul&padding=7" alt="visitor count" />
-
-</div>
+<p align="center">
+<img src="https://hits.dwyl.com/D4wn3R/github-profile.svg" alt="visitor count" />
+</p>
 
 ---
 
