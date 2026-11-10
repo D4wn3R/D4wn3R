@@ -41,7 +41,7 @@
 ### 👀 被围观次数
 
 <p align="center">
-<img src="https://hits.dwyl.com/D4wn3R/github-profile.svg" alt="visitor count" />
+<img src="https://moe-counter.lxchapu.com/@D4wn3R?theme=asoul" alt="visitor count" />
 </p>
 
 ---
